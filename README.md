@@ -1,4 +1,4 @@
-# Implementing_Regression_Problem_with_Cross
+# Implementing_Regression_Problem_with_kerass
 ### Example of a regression problem
 ### Boston Housing Price Prediction
 
